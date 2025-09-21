@@ -1,15 +1,7 @@
-import { PipelineToolbar } from './toolbar';
-import { PipelineUI } from './ui';
-import { SubmitButton } from './submit';
+import { PipelineBuilder } from './pages/PipelineBuilder';
 
 function App() {
-  return (
-    <div>
-      <PipelineToolbar />
-      <PipelineUI />
-      <SubmitButton />
-    </div>
-  );
+  return <PipelineBuilder />;
 }
 
 export default App;
