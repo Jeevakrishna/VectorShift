@@ -1,4 +1,4 @@
-## Tech Stack
+## TechStack
 
 - Backend: Python, FastAPI, Uvicorn
 - Frontend: React.js, React Flow
