@@ -46,7 +46,7 @@
       ├─ toolbar.js
       ├─ App.js
       ├─ index.css
-      └─ index.js (or main.jsx depending on setup)
+      └─ index.js 
 ```
 
 Note: Exact filenames may vary slightly; paths above reflect the current codebase snapshot.
