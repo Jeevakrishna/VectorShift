@@ -4,7 +4,7 @@
 - Frontend: React.js, React Flow
 - UI: Custom SaaS styling (Inter/Poppins, gradients, rounded corners, micro-interactions)
 - State: React state/hooks (and lightweight utility state)
-- Tooling: Node.js/npm, Python/pip
+- Tooling: Node.js/npm, python/pip
 
 ## Key Features
 
